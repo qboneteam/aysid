@@ -35,6 +35,7 @@ BLOODQWEN, [01.05.18 21:22]
 Гудок получился! :D
 
 Kakos Nonos, [01.05.18 21:22]
+![useful image]({{ site.url }}/aysid/assets/photo_2018-05-01_21-22-33.jpg)
 [ Photo ]
 
 Kakos Nonos, [01.05.18 21:22]
@@ -53,7 +54,7 @@ BLOODQWEN, [01.05.18 21:25]
 каждый семпл следует сохранять отдельно?
 
 BLOODQWEN, [01.05.18 21:25]
-[ Photo ]
+![useful image]({{ site.url }}/aysid/assets/photo_2018-05-02_00-40-35.jpg)
 
 Kakos Nonos, [01.05.18 21:26]
 Нет, то сохранить в фаил, не надо. При сохранении трека семплы сохраняются с ним
@@ -77,13 +78,13 @@ Kakos Nonos, [01.05.18 21:28]
 а инструмент пусть просто гудит
 
 Kakos Nonos, [01.05.18 21:28]
-[ Photo ]
+![useful image]({{ site.url }}/aysid/assets/photo_2018-05-01_21-28-35.jpg)
 
 BLOODQWEN, [01.05.18 21:29]
 Будте добры, распишите мне по циферкам) Что есть что. И за что каждая циферка отвечает?
 
 BLOODQWEN, [01.05.18 21:29]
-[ Photo ]
+![useful image]({{ site.url }}/aysid/assets/photo_2018-05-01_21-29-39.jpg)
 
 Artem Vasilev, [01.05.18 21:29]
 1 - номер строки
@@ -141,7 +142,7 @@ BLOODQWEN, [01.05.18 21:50]
 Вот например промежуток. Как сделать так, чтобы он был в муте?
 
 BLOODQWEN, [01.05.18 21:51]
-[ Photo ]
+![useful image]({{ site.url }}/aysid/assets/photo_2018-05-02_00-42-32.jpg)
 
 Kakos Nonos, [01.05.18 21:51]
 а. Нажать кнопку A (ф)
@@ -204,7 +205,7 @@ Kakos Nonos, [01.05.18 22:01]
 Их хорошо поизучать, как что устроено, как что делается
 
 BLOODQWEN, [01.05.18 22:01]
-[ Photo ]
+![useful image]({{ site.url }}/aysid/assets/photo_2018-05-01_22-01-39.jpg)
 молчит он. Звука нет.
 
 Kir'Valah, [01.05.18 22:01]
@@ -222,7 +223,7 @@ Artem Vasilev, [01.05.18 22:02]
 
 nq skrju, [01.05.18 22:02]
 [In reply to BLOODQWEN]
-[ Photo ]
+![useful image]({{ site.url }}/aysid/assets/photo_2018-05-01_22-02-27.jpg)
 
 BLOODQWEN, [01.05.18 22:02]
 OH SHI!
