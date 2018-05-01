@@ -36,7 +36,6 @@ BLOODQWEN, [01.05.18 21:22]
 
 Kakos Nonos, [01.05.18 21:22]
 ![useful image]({{ site.url }}/aysid/assets/photo_2018-05-01_21-22-33.jpg)
-[ Photo ]
 
 Kakos Nonos, [01.05.18 21:22]
 Потом в нотах ставить так
@@ -205,7 +204,9 @@ Kakos Nonos, [01.05.18 22:01]
 Их хорошо поизучать, как что устроено, как что делается
 
 BLOODQWEN, [01.05.18 22:01]
+
 ![useful image]({{ site.url }}/aysid/assets/photo_2018-05-01_22-01-39.jpg)
+
 молчит он. Звука нет.
 
 Kir'Valah, [01.05.18 22:01]
