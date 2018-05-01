@@ -23,8 +23,7 @@ BLOODQWEN, [01.05.18 21:21]
 Угу, я в семплах.
 
 Kakos Nonos, [01.05.18 21:21]
-![My helpful screenshot]
-({{ "/assets/photo_2018-05-01_21-22-23.jpg" | absolute_url }})
+![useful image]({{ site.url }}/assets/photo_2018-05-01_21-22-23.jpg)
 [ Photo ]
 
 Kakos Nonos, [01.05.18 21:21]
