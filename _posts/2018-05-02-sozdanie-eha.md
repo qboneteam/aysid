@@ -2,6 +2,7 @@
 layout: post
 title:  "Создание эха от MastSoft"
 date:   2018-05-02
+type:   PRESS
 ---
 
 Музыкантам - Создание эха в Pro-Tracker v2.1

@@ -2,6 +2,7 @@
 layout: post
 title:  "AY или YM  плюс ABC или ACB"
 date:   2018-05-03
+type:   LOG
 ---
 
 Kir'Valah, [03.05.18 10:52]

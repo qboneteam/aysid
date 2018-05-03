@@ -2,6 +2,7 @@
 layout: post
 title:  "Про огибающую"
 date:   2018-05-03
+type:   LOG
 ---
 Kir'Valah, [02.05.18 20:47]
 @nq_skrju давай я задам вопрос.
