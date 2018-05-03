@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Nik-O/Techno Lab делится секретами мастерства написания трекерной музыки."
+title:  "Nik-O/Techno Lab делится секретами мастерства"
 date:   2018-05-02
 type:   PRESS
 ---
