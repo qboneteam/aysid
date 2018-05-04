@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Создание эха от MastSoft"
+title:  "Создание эха в Pro-Tracker v2.1 (статья из Move #05)"
 date:   2018-05-02
 type:   PRESS
 ---
