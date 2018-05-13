@@ -67,3 +67,7 @@ nq skrju, [11.05.18 13:20]
 
 nq skrju, [11.05.18 13:20]
 чтобы наглядно было и потом ее же перенести в орнаменты
+
+nq skrju, [11.05.18 13:49]
+[nq-ornaments.pt3](https://www.dropbox.com/s/yyedrs8vl280w35/nq-ornaments.pt3?dl=0 "nq-ornaments.pt3")
+
