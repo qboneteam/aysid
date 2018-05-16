@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Музыкальная теория для сценеров. Часть 1."
-date:   2018-05-15
+title:  "Музыкальная теория для сценеров. Часть 2."
+date:   2018-05-16
 type:   PRESS
 ---
 [Оригинал](http://hype.retroscene.org/blog/812.html)
